@@ -18,6 +18,26 @@ Clone this project to your local repository
 git clone https://github.com/kedhar0608/pacman-search.git
 ```
 Then run these following tets to see its working.
+### DFS
+Small Maze
+```
+python pacman.py -l tinyMaze -p SearchAgent
+```
+Medium Maze
+```
+python pacman.py -l mediumMaze -p SearchAgent
+```
+Big Maze
+```
+python pacman.py -l bigMaze -z .5 -p SearchAgent
 
+```
+
+### BFS
+```
+
+python pacman.py -l mediumMaze -p SearchAgent -a fn=bfs
+python pacman.py -l bigMaze -p SearchAgent -a fn=bfs -z .5
+```
 
 
