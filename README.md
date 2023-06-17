@@ -41,4 +41,4 @@ python pacman.py -l mediumMaze -p SearchAgent -a fn=bfs
 python pacman.py -l bigMaze -p SearchAgent -a fn=bfs -z .5
 ```
 
-
+<img src="images/bfs.png" width=50% height=50%>
