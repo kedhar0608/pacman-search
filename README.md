@@ -1,14 +1,6 @@
 # pacman-search
 Pacman search project
-<style>
-div {
-  background-color: lightgrey;
-  width: 300px;
-  border: 15px solid green;
-  padding: 50px;
-  margin: 20px;
-}
-</style>
+
 
 <h2>Texas Tech University </h2>
 
@@ -22,9 +14,9 @@ This contains Pac-Man project which was adopted from UC Berkeley's introductory 
 Python 3.6 or lower versions. It doesn't work for higher versions of python.
 <h4>Installation</h4>
 Clone this project to your local repository
-<div>
+```
 git clone https://github.com/kedhar0608/pacman-search.git
-</div>
+```
 Then run these following tets to see its working.
 
 
