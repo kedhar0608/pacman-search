@@ -1,6 +1,14 @@
 # pacman-search
 Pacman search project
-
+<style>
+div {
+  background-color: lightgrey;
+  width: 300px;
+  border: 15px solid green;
+  padding: 50px;
+  margin: 20px;
+}
+</style>
 
 <h2>Texas Tech University </h2>
 
