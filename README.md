@@ -17,7 +17,7 @@ Clone this project to your local repository
 ```
 git clone https://github.com/kedhar0608/pacman-search.git
 ```
-Then run these following tets to see its working.
+Then run the following tests to see if it's working.
 ### DFS
 Small Maze
 ```
@@ -32,6 +32,7 @@ Big Maze
 python pacman.py -l bigMaze -z .5 -p SearchAgent
 
 ```
+<img src="images/dfs.png" width=50% height=50%>
 
 ### BFS
 ```
