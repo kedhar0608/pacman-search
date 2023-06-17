@@ -8,7 +8,7 @@ Pacman search project
 
 This contains Pac-Man project which was adopted from UC Berkeley's introductory artificial intelligence class, CS 188. It explores several techniques of Artificial Intelligence such as Searching, Heuristics, Adversarial Behaviour, Reinforcement Learning etc.
 
-**Project 1: Search** - Algorithms used are DFS, BFS, UCS, Greedy Search, A* Search
+**Project 1: Search** - Algorithms used are DFS, BFS, UCS, A* Search
 
 ## Requirements 
 Python 3.6 or lower versions. It doesn't work for higher versions of python.
